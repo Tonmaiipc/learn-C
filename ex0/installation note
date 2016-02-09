@@ -1,0 +1,5 @@
+Frank mentioned this command for Linux users to install the essential program used to code C.
+
+$ sudo apt-get install build-essential
+
+Since I installed arch-linux, the essential program was however installed as "base-devel"
