@@ -2,16 +2,18 @@
 # Exercise 1: 
 ## Dust Off That Compiler
 
-'''
 
+```
 int main(int argc, char *argv[])
 {
+
     puts("Hello world.");
 
     return 0;
-}
 
-'''
+}
+```
+
 
 saved as ex1.c
 
