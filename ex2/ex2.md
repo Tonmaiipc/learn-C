@@ -55,6 +55,7 @@ read more here : [learn C Github](https://github.com/Frederick-S/Learn-C-The-Har
 - Research Makefiles online and see if you can improve this one even more
 
 > you can add comment using # at the start of the line
+
 > able to use variables too
 [learn C Github](https://github.com/Frederick-S/Learn-C-The-Hard-Way-Exercise/tree/master/Ex2)
 
