@@ -24,6 +24,11 @@ It works, ./ex10 is the argv[0]
 
 valgrind report error, and yield `segmentation fault` as it tries to access unavailable memory.
 
+- Read what a NULL is and try to use it in one of the elements of the states array to see what it'll print.
+
+an implementation-defined null pointer constant, which in C99 can be portably expressed as the integer value 0 converted implicitly or explicitly to the type void*
+
 - See if you can assign an element from the states array to the argv array before printing both. Try the inverse.
 
-Both are doable.
+assigning states array > argv array. Doable
+assigning argv array > states array. error: array type 'char *[3]' is not assignable
